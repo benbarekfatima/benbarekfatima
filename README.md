@@ -5,9 +5,10 @@
 
 ## 🌱 About Me
 
-- 🎓 I’m a Master’s student at USTHB (Software Engineering)
-- 🌍 I’m currently learning Fullstack Web Development (React, Node.js, MongoDB, Tailwind, TypeScript)
-- 🛠 I learn best by building real projects
+- I’m currently pursuing a Master’s degree in Software Engineering at USTHB.
+- I'm focused on mastering modern Fullstack Web Development with technologies like React, Node.js, MongoDB, Tailwind, and TypeScript.
+- I also have foundational knowledge in Machine Learning and Deep Learning, with hands-on experience in recommendation systems and NLP.
+- I’m a strong believer in learning by doing — I grow my skills by building real-world, practical projects.
 
 ---
 
