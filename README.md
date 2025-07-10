@@ -1,62 +1,63 @@
 <h1 align="center">Hi 👋, I'm Fatima</h1>
-<h3 align="center">🚀 Master’s Student in Software Engineering | Fullstack Web Developer </h3>
+<h3 align="center">🚀 Master’s Student in Software Engineering | Fullstack Web Developer</h3>
 
 ---
 
 ## 🌱 About Me
 
-- I’m currently pursuing a Master’s degree in Software Engineering at USTHB.
-- I'm focused on mastering modern Fullstack Web Development with technologies like React, Node.js, MongoDB, Tailwind, and TypeScript.
-- I also have foundational knowledge in Machine Learning and Deep Learning, with hands-on experience in recommendation systems and NLP.
-- I’m a strong believer in learning by doing — I grow my skills by building real-world, practical projects.
+- 🎓 I’m currently pursuing a Master’s degree in Software Engineering at USTHB.  
+- 💻 I'm focused on mastering modern Fullstack Web Development with technologies like React, Node.js, MongoDB, Tailwind, and TypeScript.  
+- 🤖 I also have foundational knowledge in Machine Learning and Deep Learning, with hands-on experience in recommendation systems and NLP.  
+- 🛠 I’m a strong believer in learning by doing — I grow my skills by building real-world, practical projects.  
 
 ---
 
 ## 🛠 Tech Stack
 
-### 💻 Frontend
+<p align="center">
+  <!-- Web Dev -->
+  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Redux-593D88?logo=redux&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/React%20Router-CA4245?logo=reactrouter&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Material UI-007FFF?logo=mui&logoColor=white&style=for-the-badge" />
+  
+  <!-- Backend -->
+  <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Express.js-000?logo=express&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white&style=for-the-badge" />
+  
+  <!-- Databases -->
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Mongoose-880000?logo=mongoose&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/MySQL-005E87?logo=mysql&logoColor=white&style=for-the-badge" />
 
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+  <!-- DevOps & Tools -->
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/VS Code-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge" />
+  
+  <!-- API & Auth -->
+  <img src="https://img.shields.io/badge/JWT-000000?logo=jsonwebtokens&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Axios-5A29E4?logo=axios&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/REST API-005571?logo=rest&logoColor=white&style=for-the-badge" />
 
-### 🧠 Backend
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-
-### 🗃️ Databases
-
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005E87?style=for-the-badge&logo=mysql&logoColor=white)
-
-### ⚙️ Tools & DevOps
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-
-### 🤖 AI / Data Science
-
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=black)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white)
-
----
-
-## 📌 Projects
-
-🔭 I’m currently working on projects that involve the modern web (React, Tailwind, Node.js, MongoDB…)
-
-👯 I’m looking to collaborate on fullstack or frontend projects that solve real-world problems
-
-🤝 I’m looking for help with backend auth & secure API design
+  <!-- AI & Data Science -->
+  <img src="https://img.shields.io/badge/Python-FFD43B?logo=python&logoColor=black&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/spaCy-09A3D5?logo=spacy&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Transformers-HuggingFace-yellow?logo=huggingface&logoColor=black&style=for-the-badge" />
+</p>
 
 ---
 
