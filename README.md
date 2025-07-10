@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Fatima</h1>
+<h1 align="center">Hi 👋, I'm Sheyma</h1>
 <h3 align="center">🚀 Master’s Student in Software Engineering | Fullstack Web Developer</h3>
 
 ---
@@ -14,6 +14,6 @@
 
 ## 📫 Contact
 
-- 📧 Email: fatima.example@gmail.com  
+- 📧 Email: benbarekfatima1@gmail.com  
 - 🌐 Portfolio: *coming soon*  
 - 📄 Resume available upon request
