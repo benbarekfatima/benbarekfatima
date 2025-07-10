@@ -7,8 +7,7 @@
 
 - 🎓 I’m a Master’s student at USTHB (Software Engineering)
 - 🌍 I’m currently learning Fullstack Web Development (React, Node.js, MongoDB, Tailwind, TypeScript)
-- 🤖 I have experience in AI, NLP, and recommendation systems
-- 🛠 I learn best by building real projects, even before mastering the full tech stack
+- 🛠 I learn best by building real projects
 
 ---
 
