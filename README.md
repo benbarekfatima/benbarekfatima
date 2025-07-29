@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sheyma</h1>
-<h3 align="center">🚀 Master’s Student in Software Engineering | Fullstack Web Developer</h3>
+<h3 align="center">🚀 Master’s Student in Software Engineering </h3>
 
 ---
 
